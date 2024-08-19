@@ -11,7 +11,7 @@
 
 using namespace std;
 
-// Calculates all the ways to climb `num_stairs`
+// Calculates all the ways to climb 'num_stairs'
 vector< vector<int> > get_ways(int num_stairs) {
     vector<vector<int>> ways;
     
