@@ -8,4 +8,4 @@
 - Checks whether a string has all unique lowercase letters. Will display error message if input string does not contain all lowercase letters.
 
 ## sieve_of_eratosthenes:
-- Finds prime numbers using the sieve of Eratosthenes.The program asks the user for a limit and then finds primes up to and including that limit. When there is only one line of prime numbers in the output, the numbers are displayed with one space between each. When there are multiple lines of output, the numbers are right-aligned to the width of the largest prime. 
+- Asks the user for a limit and then finds primes up to and including that limit using the sieve of Eratosthenes. When there is only one line of prime numbers in the output, the numbers are displayed with one space between each. When there are multiple lines of output, the numbers are right-aligned to the width of the largest prime. 
