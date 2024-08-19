@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Name        : stairclimber.cpp
+ * Name        : stair_climber.cpp
  * Description : Lists the number of ways to climb n stairs.
  ******************************************************************************/
 #include <iostream>
