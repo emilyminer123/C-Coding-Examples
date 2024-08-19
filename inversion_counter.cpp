@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Name        : inversioncounter.cpp
+ * Name        : inversion_counter.cpp
  * Description : Counts the number of inversions in an array.
  ******************************************************************************/
 #include <iostream>
